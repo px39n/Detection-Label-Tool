@@ -7,5 +7,12 @@ label wheat spikes
 
 2.Label image
 
-3.Point will be saved as csv in same dir/label XXX_GT.csv
+3.line will be saved as csv in same dir/label XXX_GT.csv
 
+
+
+ShortCut
+(Shift) switch between reference and image
+
+(Ctrl+S) save
+(Ctrl+Z) withdraw
