@@ -3,11 +3,11 @@ There are two Modes Can be selected in the beginning.
 
 Object Label Tool(only line support)
 
-<img src="https://github.com/px39n/LabelWheat_points/blob/master/op.gif?raw=true" height="200" />
+<img src="https://github.com/px39n/LabelWheat_points/blob/master/op.gif?raw=true" height="400" />
 
 Change detection(only polygon support)
 
-<img src="https://github.com/px39n/LabelWheat_points/blob/master/op2.gif?raw=true" height="200" />
+<img src="https://github.com/px39n/LabelWheat_points/blob/master/op2.gif?raw=true" height="400" />
 
 
 the label will be saved as csv file.
