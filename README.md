@@ -1,7 +1,19 @@
-# LabelWheat_points
-label wheat spikes
+# Detection Label TOol
+There are two Modes Can be selected in the beginning.
 
-<img src="https://github.com/px39n/LabelWheat_points/blob/master/op.gif?raw=true" height="400" />
+Object Label Tool(only line support)
+
+<img src="https://github.com/px39n/LabelWheat_points/blob/master/op.gif?raw=true" height="200" />
+
+Change detection(only polygon support)
+
+<img src="https://github.com/px39n/LabelWheat_points/blob/master/op2.gif?raw=true" height="200" />
+
+
+the label will be saved as csv file.
+
+
+Process: 
 
 1.Selct import
 
@@ -10,9 +22,13 @@ label wheat spikes
 3.line will be saved as csv in same dir/label XXX_GT.csv
 
 
-
 ShortCut
-(Shift) switch between reference and image
+- (Shift) switch between reference and image
+- (Ctrl+S) save
+- (Ctrl+Z) Undo 
 
-(Ctrl+S) save
-(Ctrl+Z) withdraw
+To do list
+- [ ] Add model switch (point/line)
+- [x] Add function of (Change detection)
+- [ ] Add auto convert fuc
+- [x] Change all shortcut, add menu
